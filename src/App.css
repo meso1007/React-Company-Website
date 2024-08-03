@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+body {
+    font-family:'Galorine','Artifakt Element', sans-serif;
+}
+
+.custom-bg-color {
+    background-color: #008492;
+}
+  
+#head {
+    font-family:'Galorine';
+    font-size: 1.6rem;
+}
+
+.underline-on-hover {
+    text-decoration: none;
+    transition: text-decoration 0.3s ease; 
+}
+
+.underline-on-hover:hover {
+    text-decoration: underline; 
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+    color: #FFD700 !important;
+}

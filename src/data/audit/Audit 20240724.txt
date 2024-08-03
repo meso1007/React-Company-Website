@@ -1,0 +1,148 @@
+2024-07-24 16:09:17 192.168.0.100:63476 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 16:10:27 192.168.0.100:63521 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 16:11:25 192.168.0.100:63551 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 16:28:22 127.0.0.1:58324 test@mail.com  login success User login via password. 
+2024-07-24 16:30:20 192.168.0.102:60475 ryoko@mail.com  login success User login via password. 
+2024-07-24 16:40:46 192.168.0.100:51793 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 16:41:24 192.168.0.104:59187 nat@mail.com  login success User login via password. 
+2024-07-24 16:49:44 192.168.0.100:52777 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 16:52:37 192.168.0.102:61015 ryoko@mail.com  login success User login via password. 
+2024-07-24 16:52:40 192.168.0.101:57708 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 16:53:30 192.168.0.101:57906 Hogwarts77@gmail.com c login failed Invalid email address or Role type. 
+2024-07-24 16:53:40 192.168.0.101:57948 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 16:53:41 192.168.0.103:60798 diego@test.com  registeration success User registered. 
+2024-07-24 16:55:57 192.168.0.101:58510 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 16:58:36 192.168.0.105:54438 joao@gmail.com  login success User login via password. 
+2024-07-24 16:58:46 192.168.0.105:54461 joao@gmail.com  login success User login via password. 
+2024-07-24 17:01:26 192.168.0.106:61577 kochiraw@gmail.com a login failed Invalid password. Attempts(4) 
+2024-07-24 17:01:39 192.168.0.106:61583 kochiraw1@gmail.com a login failed Invalid email address or Role type. 
+2024-07-24 17:01:49 192.168.0.106:61589 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 17:03:04 192.168.0.101:59694 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:03:08 192.168.0.105:54852 joao@gmail.com  login success User login via password. 
+2024-07-24 17:05:08 192.168.0.106:62018 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 17:05:09 192.168.0.105:55076 joao@gmail.com  login success User login via password. 
+2024-07-24 17:05:38 127.0.0.1:54776 test@mail.com  login success User login via password. 
+2024-07-24 17:05:50 192.168.0.102:61356 ryoko@mail.com  login success User login via password. 
+2024-07-24 17:07:02 192.168.0.102:61380 345678 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 17:08:46 192.168.0.101:59872 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:09:15 192.168.0.103:62855 diego@woodtam.com s login failed Invalid email address or Role type. 
+2024-07-24 17:10:26 192.168.0.103:63066 diego@test123.com  registeration success User registered. 
+2024-07-24 17:11:00 192.168.0.103:63142 diego@test123.com  login failed User account is not activated 
+2024-07-24 17:12:15 192.168.0.101:60635 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:13:51 192.168.0.102:61564 1001 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 17:13:55 192.168.0.103:63678 diego@test123.com s login failed Invalid email address or Role type. 
+2024-07-24 17:14:00 192.168.0.101:60754 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:14:01 192.168.0.103:63686 diego@test123.com  login success User login via password. 
+2024-07-24 17:14:51 192.168.0.101:60979 Hogwarts77@gmail.com a login failed Invalid password. Attempts(4) 
+2024-07-24 17:15:02 192.168.0.101:61024 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:17:36 192.168.0.100:54122 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:18:31 192.168.0.100:54183 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:22:18 192.168.0.103:64895 diego@test123.com  login success User login via password. 
+2024-07-24 17:23:18 192.168.0.103:65061 diego@test123.com  login success User login via password. 
+2024-07-24 17:25:07 192.168.0.101:63630 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:29:54 192.168.0.105:55579 joao@gmail.com  login success User login via password. 
+2024-07-24 17:34:07 192.168.0.100:64947 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:36:07 192.168.0.103:49871 diego@test123.com  login success User login via password. 
+2024-07-24 17:38:59 192.168.0.100:65119 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:42:12 192.168.0.101:65066 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:42:54 192.168.0.101:65250 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:43:39 192.168.0.103:50827 diego@test123.com  login success User login via password. 
+2024-07-24 17:45:54 192.168.0.100:65386 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:46:01 192.168.0.100:65389 cc120 rotfg17@gmail.com Project_creation success Project Created. 
+2024-07-24 17:46:15 192.168.0.100:65395 cc120 rotfg17@gmail.com Project_creation Failed Project Code already exists. 
+2024-07-24 17:47:09 192.168.0.103:51388 123 diego@test123.com Project_creation success Project Created. 
+2024-07-24 17:48:29 192.168.0.106:63020 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 17:53:50 192.168.0.104:49545 nat@mail.com  login success User login via password. 
+2024-07-24 17:54:05 192.168.0.101:51556 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:54:53 192.168.0.104:49630 undefined nat@mail.com Project_Assignment Failed Project Code does not exist. 
+2024-07-24 17:54:56 192.168.0.101:51769 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:55:09 192.168.0.101:51824 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:56:08 192.168.0.101:52058 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:56:09 192.168.0.106:63085 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 17:56:11 192.168.0.103:52261 diego@test123.com  login success User login via password. 
+2024-07-24 17:56:36 192.168.0.103:52335 test2 diego@test123.com Project_creation success Project Created. 
+2024-07-24 17:56:47 192.168.0.107:52533 victor@test.com  login success User login via password. 
+2024-07-24 17:56:47 192.168.0.107:52533 victor@test.com  login success User login via password. 
+2024-07-24 17:56:47 192.168.0.107:52534 victor@test.com  login success User login via password. 
+2024-07-24 17:58:45 192.168.0.101:52690 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 17:58:49 192.168.0.100:49706 rotfg17@gmail.com s login failed Invalid email address or Role type. 
+2024-07-24 17:58:53 192.168.0.100:49706 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:58:56 192.168.0.105:56490 joao@gmail.com  login success User login via password. 
+2024-07-24 17:59:07 192.168.0.100:49737 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 17:59:31 192.168.0.101:52879 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 18:00:05 192.168.0.102:62446 ryoko@mail.com  login success User login via password. 
+2024-07-24 18:00:33 192.168.0.102:62464 1200 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 18:00:59 192.168.0.107:52561 331231231 victor@test.com Project_creation success Project Created. 
+2024-07-24 18:01:13 192.168.0.100:49781 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:01:46 192.168.0.100:49793 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:02:23 192.168.0.100:56492 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:02:54 192.168.0.100:56507 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:03:51 192.168.0.100:56516 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:04:14 192.168.0.100:56525 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:04:37 192.168.0.101:53598 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 18:07:10 192.168.0.106:52180 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 18:07:53 192.168.0.101:54391 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 18:14:51 192.168.0.107:52600 3555 victor@test.com Project_creation success Project Created. 
+2024-07-24 18:15:45 192.168.0.101:56196 123 Hogwarts77@gmail.com Project_creation Failed Project Code already exists. 
+2024-07-24 18:16:08 192.168.0.101:56291 123 Hogwarts77@gmail.com Project_creation Failed Project Code already exists. 
+2024-07-24 18:19:18 192.168.0.100:56992 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:19:47 192.168.0.100:57031 VictorJoao rotfg17@gmail.com Project_creation success Project Created. 
+2024-07-24 18:20:03 192.168.0.104:53852  nat@mail.com Project_Assignment Failed Project Code does not exist. 
+2024-07-24 18:20:08 192.168.0.104:53856  nat@mail.com Project_Assignment Failed Project Code does not exist. 
+2024-07-24 18:20:24 192.168.0.104:53883 test2 nat@mail.com Project_Assignment success Project Assigned to userID 64. 
+2024-07-24 18:37:55 192.168.0.106:53073 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 18:45:42 192.168.0.100:51026 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:47:22 192.168.0.100:51053 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:47:34 192.168.0.104:56455 VictorJoao nat@mail.com Project_Assignment success Project Assigned to userID 68. 
+2024-07-24 18:50:11 192.168.0.102:63690 abc@yahoo.com  registeration Failed User email already exists. 
+2024-07-24 18:50:55 192.168.0.102:63713 ryoko@mail.com  login success User login via password. 
+2024-07-24 18:51:58 192.168.0.102:63761 2345 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 18:54:05 192.168.0.100:51129 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:55:11 192.168.0.100:51152 rotfg17@gmail.com s login failed Invalid email address or Role type. 
+2024-07-24 18:55:14 192.168.0.100:51152 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 18:56:52 192.168.0.104:63684 32 nat@mail.com Project_Assignment success Project Assigned to userID 32. 
+2024-07-24 18:58:32 192.168.0.100:51187 rotfg17@gmail.com s login failed Invalid email address or Role type. 
+2024-07-24 18:58:34 192.168.0.100:51187 rotfg17@gmail.com c login failed Invalid email address or Role type. 
+2024-07-24 18:58:36 192.168.0.100:51187 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 19:02:50 192.168.0.100:51407 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 19:02:52 192.168.0.102:64196 34567 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 19:02:56 192.168.0.102:64196 34567 ryoko@mail.com Project_creation Failed Project Code already exists. 
+2024-07-24 19:03:05 192.168.0.102:64203 876 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 19:04:02 192.168.0.101:61760 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 19:04:18 192.168.0.101:61771 789 Hogwarts77@gmail.com Project_creation success Project Created. 
+2024-07-24 19:04:28 192.168.0.102:64246 abc@yahoo.com  registeration Failed User email already exists. 
+2024-07-24 19:05:15 192.168.0.102:59580 microsoft@yahoo.com  registeration success User registered. 
+2024-07-24 19:10:56 192.168.0.105:63060 joao@gmail.com  login success User login via password. 
+2024-07-24 19:11:10 192.168.0.106:65098 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 19:12:16 192.168.0.105:63322 joao@gmail.com  login success User login via password. 
+2024-07-24 19:13:37 192.168.0.105:63545 joao@gmail.com  login success User login via password. 
+2024-07-24 19:20:19 192.168.0.102:60129 ryoko@mail.com  login success User login via password. 
+2024-07-24 19:26:47 192.168.0.101:62111 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 19:26:47 192.168.0.103:56574 diego@test123.com  login success User login via password. 
+2024-07-24 19:27:33 192.168.0.103:56605 123 diego@test123.com Project_creation Failed Project Code already exists. 
+2024-07-24 19:28:05 192.168.0.103:56621 123fasd diego@test123.com Project_creation success Project Created. 
+2024-07-24 19:28:37 192.168.0.103:56640 123fasd diego@test123.com Project_creation Failed Project Code already exists. 
+2024-07-24 19:28:57 192.168.0.103:56649 31313 diego@test123.com Project_creation success Project Created. 
+2024-07-24 19:29:33 192.168.0.104:60323 001 nat@mail.com Project_Assignment success Project Assigned to userID 32. 
+2024-07-24 19:30:07 192.168.0.101:62505 12345 Hogwarts77@gmail.com Project_creation success Project Created. 
+2024-07-24 19:32:16 192.168.0.106:52381 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 19:32:54 192.168.0.100:52199 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 19:33:35 192.168.0.100:52213 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 19:38:27 192.168.0.100:52286 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 19:39:41 192.168.0.103:59795 diego@test123.com  login success User login via password. 
+2024-07-24 19:40:53 192.168.0.102:60647 ryoko@mail.com  login success User login via password. 
+2024-07-24 19:41:19 192.168.0.103:60310 1234567 diego@test123.com Project_creation success Project Created. 
+2024-07-24 19:43:14 192.168.0.102:60672 ryoko@mail.com  login success User login via password. 
+2024-07-24 19:43:37 192.168.0.102:60738 2000 ryoko@mail.com Project_creation success Project Created. 
+2024-07-24 19:45:02 192.168.0.101:49965 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 19:45:07 192.168.0.106:53879 kochiraw@gmail.com  login success User login via password. 
+2024-07-24 19:50:48 192.168.0.105:63080 joao@gmail.com  login success User login via password. 
+2024-07-24 19:52:50 192.168.0.105:63121 joao@gmail.com  login success User login via password. 
+2024-07-24 19:53:33 192.168.0.105:63126 joao@gmail.com  login success User login via password. 
+2024-07-24 20:10:31 192.168.0.105:50877 joao@gmail.com  login success User login via password. 
+2024-07-24 20:26:33 192.168.0.105:51534 joao@gmail.com  login success User login via password. 
+2024-07-24 20:31:51 192.168.0.100:53346 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 20:36:56 192.168.0.101:63131 Hogwarts77@gmail.com  login success User login via password. 
+2024-07-24 20:38:19 192.168.0.105:52036 joao@gmail.com  login success User login via password. 
+2024-07-24 20:46:43 192.168.0.100:53805 rotfg17@gmail.com  login success User login via password. 
+2024-07-24 20:50:08 192.168.0.105:52295 joao@gmail.com  login success User login via password. 
